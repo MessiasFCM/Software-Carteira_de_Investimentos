@@ -1,5 +1,3 @@
-package carteira.virtual.de.investimento;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 

@@ -1,5 +1,3 @@
-package carteira.virtual.de.investimento;
-
 // Class para identificar, armazenar e modificar os valores de um objeto
 // e é utilziado para gerenciar os dados da tabela
 
